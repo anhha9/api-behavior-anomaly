@@ -14,3 +14,12 @@ To achieve this overarcing objective, this project is broken down into 3 sub-obj
 2. To engineer new predictive features from the available graphs
 3. To develop a supervised-learning model to classify the behaviours into normal and abnormal behaviors
 
+## Main insights
+By cleaning the data and through exploratory data analysis, we found out that anomalous behavviour patterns are characterised by:
+- Higher API access durations (measured in seconds)
+- Higher V-session duations (measured in minutes)
+- Traffic coming from data centers
+
+## Engineered features
+
+## Model selection
