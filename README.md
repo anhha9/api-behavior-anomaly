@@ -37,6 +37,8 @@ The best performing model was the Histogram Gradient Boosting Classifier with th
 Concerning anomalous API call prediction, the accuracy and F1-score of the classifier typicall fall into these thresholds:
 - Accuracy: 85%-95% [Xin et al., 2023](https://journalofcloudcomputing.springeropen.com/articles/10.1186/s13677-022-00383-6?)
 - F1-score: 0.75-0.90 [Aharon et al., 2024](https://arxiv.org/html/2405.11247v1?)
+
+
 With our best Histogram Gradient Boosting Classifier, the metrics are:
 - Accuracy: 99.76%
 - F1-score: 98.12%
