@@ -29,6 +29,8 @@ By cleaning the data and through exploratory data analysis, we found out that an
 
 ## Model selection
 The best performing model was the Histogram Gradient Boosting Classifier with the following parameters:
+
+
 {
     learning_rate: 0.02294131897623665,
     max_iter: 78,
