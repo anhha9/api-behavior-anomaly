@@ -23,6 +23,8 @@ By cleaning the data and through exploratory data analysis, we found out that an
 ## Engineered features
 - mean_page_rank and std_page_rank (standard deviation of page rank): These features measure the importance of a node in a graph according to its connections.
 - std_out_degree (standard deviation of out degree): Concerning directed graph (the type of graph we have here), out-degree indicates how many other nodes each node directly points to.
+
+
 ***Note about the distinction between PageRank and out-degree***: *PageRank is a global metric, influenced by the ranks of the nodes linking to it and their respective out-degrees. Out-degree is a local metric, focusing only on the immediate neighbors a node connects to.*
 
 ## Model selection
